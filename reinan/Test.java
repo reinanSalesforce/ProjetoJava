@@ -57,7 +57,7 @@ public class Test{
         int numero2 = entrada.nextInt();
         valor.setNum2(numero2);
 
-        System.out.println("A soma é : " + valor.getSoma());
+        System.out.println("A soma é : " + valor.somar());
         entrada.close();
 
     }}

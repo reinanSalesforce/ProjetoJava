@@ -4,8 +4,8 @@ public class Aluno extends Pessoa {
 	
 	private int IDaluno;	//Matricula
 	private double AlunoVLMensalidade = 1000; //calculo 
-//	private AlunoTipoBolsa;  // enum 
-	
+	//private AlunoTipoBolsa;  // enum 
+	// Hello Mundo
 	
 	//********* Construtor ***********
 	
